@@ -58,29 +58,29 @@ Mas enquanto implementava-se essa nova feature (lá pelo commit 4 da imagem abai
 
 Essa é uma das maiores vantagens de se trabalhar em branches. Poder focar em pequenas implementações, sem afetar o que já está funcionando, e poder trocar esses contextos, voltar e criando essas ramificações, enquanto a sua branch main continua funcionando.
 
-#3 boas práticas ao usar Git
+#Boas Práticas Ao Usar Git
 1. Faça pequenos commits
-Não deixe para commitar apenas quando você terminar tudo. Faça pequenos ciclos com o código funcionando e vá commitando. Isso evita que se perca todo o código que fez e também facilita a volta em alguma parte que deu errado.
+Não deixe para commitar apenas quando terminar tudo. Faça pequenos ciclos com o código funcionando e vá commitando. Isso evita que se perca todo o código que fez e também facilita a volta em alguma parte que deu errado.
 
 2. Escreva boas mensagens de commits
 
-Portanto, escrever boas mensagens no commit que representem o que aquela modificação faz ajuda muito outras pessoas do time — ou até mesmo você, quando for revisitar um código daqui uns meses ou anos.
+Portanto, escrever boas mensagens no commit que representem o que aquela modificação faz ajuda muito outras pessoas do time — ou até mesmo, quando for revisitar um código daqui uns meses ou anos.
 
 3. Use o .gitignore
-Existe um arquivo que você pode criar em todos os repositórios, na raiz, com o nome .gitignore. Nesse arquivo, você pode colocar todas as pastas e arquivos que você quer que o Git ignore e não faça track.
+Existe um arquivo que pode criar em todos os repositórios, na raiz, com o nome .gitignore. Nesse arquivo, pode colocar-se todas as pastas e arquivos quese queira que o Git ignore e não faça track.
 
-#3 ferramentas gráficas para usar em Git
-Existem algumas ferramentas gráficas que ajudam você a usar o Git. Há diferentes tipos de ferramentas no mercado, pagas e não pagas, mas vamos te mostrar 3 alternativas multiplataformas que tem planos gratuitos. 
+#Ferramentas Gráficas Para Usar Em Git
+Existem algumas ferramentas gráficas que ajudam a usar o Git. Há diferentes tipos de ferramentas no mercado, pagas e não pagas, a seguir são exemplificadas 3 alternativas multiplataformas que tem planos gratuitos. 
 
 1. Git Kraken
 Além de eficiente e visualmente agradável, o GitKraken faz com que as operações do Git sejam mais compreensíveis e simples de entender. 
 
 2. Git-cola
-É uma ferramenta mais simples, porém bem poderosa para você executar seus comandos Git.
+É uma ferramenta mais simples, porém bem poderosa para executar comandos Git.
 
 3. SmartGit
-Como o próprio nome já diz, é uma ferramenta inteligente e fácil de usar. Independentemente do sistema operacional que estiver usando, ele funciona da mesma maneira.  
+Como o próprio nome já diz, é uma ferramenta inteligente e fácil de usar. Independentemente do sistema operacional que estiver usando, ele funciona da mesma maneira. 
 
-Bibliografia
+#Bibliografia
 
 https://blog.betrybe.com/git/#1 - visto em 12/07/2022
