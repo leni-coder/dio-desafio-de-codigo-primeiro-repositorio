@@ -60,10 +60,9 @@ Essa é uma das maiores vantagens de se trabalhar em branches. Poder focar em pe
 
 #3 boas práticas ao usar Git
 1. Faça pequenos commits
-Não deixe para commitar apenas quando você terminar tudo. Faça pequenos ciclos com o código funcionando e vá commitando. Isso evita que você perca todo o código que fez e também facilita a volta em alguma parte que deu errado.
+Não deixe para commitar apenas quando você terminar tudo. Faça pequenos ciclos com o código funcionando e vá commitando. Isso evita que se perca todo o código que fez e também facilita a volta em alguma parte que deu errado.
 
 2. Escreva boas mensagens de commits
-Se você é uma pessoa desenvolvedora, provavelmente já esbarrou em algum projeto em que você tentou entender o que o código faz e a mensagem do commit não ajudou em nada! E, se ainda não passou por isso, é provável que um dia vai passar.
 
 Portanto, escrever boas mensagens no commit que representem o que aquela modificação faz ajuda muito outras pessoas do time — ou até mesmo você, quando for revisitar um código daqui uns meses ou anos.
 
