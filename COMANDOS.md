@@ -61,4 +61,7 @@ O git stash serve para guardar ou arquivar as alterações feitas por um determi
 17. Git clone: baixando o código fonte de um repositório!
 Consegue-se clonar, ou copiar, o projeto para o computador. Pode-se clonar um repositório localmente, fazendo uma cópia dele. Para isso, basta rodar git clone /caminho/para/o/repositório. Ou também pode clonar um repositório remoto e para isso usar git clone “url”.
 
+#Bibliografia
+https://blog.betrybe.com/git/#1 - visto em 12/04/2022
+
 
